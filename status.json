@@ -1,4 +1,4 @@
 {
-  "enable": false,
-  "message": "该工具已停止使用，请联系作者。"
+  "enable": true,
+  "message": "正常使用"
 }
